@@ -15,7 +15,8 @@ last time i used a dom based js framework jad alot of issues so i switched to ph
 also for anyone interested i can teach for free(for now) how to use my phaser and java game frameworks.
 at least somthing good will come from all of this.
 
-
+live demo:
+https://cdn.rawgit.com/yoel123/Ludum-Dare-37/master/index.html
 
 contact form:
 
